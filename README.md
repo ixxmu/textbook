@@ -1,2 +1,16 @@
-# textbook
-This is a textbook for further use
+---
+description: 这是一个测试页面，是记录书写的开始
+---
+
+# 编者序
+
+This is a textbook for further use！
+
+#### 为什么有这个尝试？
+
+因为时间越来越短，代码越写越多，所以如何让繁琐的重复快速重新开始变得越来越重要！
+
+主要内容有什么？
+
+
+
